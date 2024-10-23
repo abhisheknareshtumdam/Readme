@@ -1,3 +1,4 @@
+# Readme
 # Hi there 👋, I'm Abhishek Naresh Tumdam  
 **MBA Professional | 10 Years of Experience | Transitioning to IT Professional**
 
@@ -23,6 +24,3 @@
 
 ### 💡 Fun Fact  
 An operations leader transitioning into **IT & Data Analytics**, turning numbers into actionable insights!
-
-# Readme
-About me
